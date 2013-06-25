@@ -1,2 +1,1 @@
-windows
-=======
+code under Windows
